@@ -1,3 +1,5 @@
 name "webserver"
 description "Web Server"
-run_list "role[base]"
+run_list (
+	"role[base]"
+)
