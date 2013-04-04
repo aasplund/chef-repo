@@ -1,0 +1,10 @@
+{
+	"id": "chilmersson",
+	"groups": ["sysadmin"],
+	"comment": "Christian Hilmersson",
+	"uid": 2001,
+	"home": "/home/chilmersson",
+	"shell": "/bin/bash",
+	"ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC8ugAvv+MpA0ewkWyXATXZdaUS3zJlTDa2L5Wjo5W2Bqt+q17LD0vuuN1bZ+UYj/9vVyaMsLitHI6GbWOs+OQds0V5eEcZCHwwGRi+C4ucVF5SbLxr3BK4b9Hc5zG+WytXXxeRSUg7LxIiX7J0yLTnTOw95E5AxreaOYhl7JKiM9TbPzCuLzqjOGavYjFulWti9B56PPJ1Ccf/uWun2FAclSzY1wolL6MLHXQ9CXt/5omdLAe6LAb7DwrryJyV9RQCQZ1eS/dUFAB2piHUpHnm6IMj5KtYm+6Y6fWfzyv1/9YzY318cE1ItBsm/lYDxg8xEprRPwxX2wvf0LChXFvX christian.hilmersson@callistaenterprise.se"
+}
+

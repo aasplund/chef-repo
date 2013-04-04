@@ -1,0 +1,10 @@
+{
+	"id": "aasplund",
+	"groups": ["sysadmin"],
+	"comment": "Anders Asplund",
+	"uid": 2000,
+	"home": "/home/aasplund",
+	"shell": "/bin/bash",
+	"ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDM4xal7Wy0V+Lja54pL2OpHAnmKrOd/AT3/8njeGXJZxrgAAYxhlqXp373Vkb4uCpP1yomcvgYHHyh7W6puDzGE1NKKLyKRzYDERYB9a+OfIA0uPHhybq8QH61S2AF0zY1vQ+RArLFlOoOuVzh7s6oe40TTCFZ7KLyBEAYAFuL0CZSejnvr5pf9krZvmAGQ7jT+d5LIIr66Dy3MAn0jpHhSfWCDTZt3dBTgchvOPU+OU1WbLTtrJ34RrXbxLTdJDxkvSG9b0BJVDVSmcHUsJiUPVjxdojRk7cRqnXC1Q+j+J3yo+dqqmuxZnB8xuUYxvIJy6VCyS1fqg4TWG4QlOXb anders@Anders-Asplunds-MacBook-Pro.local"
+}
+

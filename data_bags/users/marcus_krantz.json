@@ -1,0 +1,10 @@
+{
+	"id": "mkrantz",
+	"groups": ["sysadmin"],
+	"comment": "Marcus Krantz",
+	"uid": 2003,
+	"home": "/home/mkrantz",
+	"shell": "/bin/bash",
+	"ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCitq5Z1w1Vanb9q36c8ZWXGW43fwkijSPfaFWbKRNREyioH2pMJwrBudbXZMqiFyBH21mXRgAOyEbFzgkTkO4CsZ5UIwpgI38LLiMwhgqf4JxgsdWmwl2/R5KDEDob0hlXSTFC+pzGBPe/thmABbu2IG+Xc/T/9JGUOjqVwG4Wz19JFEeTH+8auP8tj7DlJYc++T24PSfhHPOD89QMzdnfq7rd+if+G8ZRZyDAtNfDMNSQxq7UpyZeOnHHTsVUl8HNhNcnMuVTXGVu7Y6Uy3LawvaAF8hzdU4zxg2Ke9jijHOyCJUX5gH2hKBYPn70gnTriVNpA51Fj1etyoXIrbH1 krantz.marcus@gmail.com"
+}
+

@@ -1,0 +1,10 @@
+{
+	"id": "aorwall",
+	"groups": ["sysadmin"],
+	"comment": "Albert Örwall",
+	"uid": 2002,
+	"home": "/home/aorwall",
+	"shell": "/bin/bash",
+	"ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC7fy66kYSeB+XsQZces3BFTrAIaPpBt5uf5xNPZCRuPNP89V46coihTPn2z83ytOx4ETzBMY56ymmhI/gHK3B1jtndgptsYRDvsBcDjmTbAvmqS2sO4GXG/iXNlBUWKbDsftrxe1UBc2ey9C78Nd/dfMMevTY9/Zs+ZCjacXvZ6kVXZI2on0mYOx0bC6VfAKDq9Zy3d9xiIJRo+/nd/7lm0qacWqlnMp17Na5bXmuhGMA9q+tbChNZwiX8azKHb68afAaZEpMw7UZCHaCnb11cTwf79aPHOC1zwirkmDn2utycj9twUzrzCSC6O/At1EV/Z1Hu8fBZmwcscxgqLAfV albert.orwall@callistaenterprise.se"
+}
+
