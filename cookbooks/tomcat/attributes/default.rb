@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: jetty
+# Cookbook Name:: tomcat
 # Attributes:: default
 #
 # Copyright 2010, Opscode, Inc.
@@ -16,7 +16,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-default["tomcat"]["base_version"] = 6
+default["tomcat"]["base_version"] = 7
 default["tomcat"]["port"] = 8080
 default["tomcat"]["ssl_port"] = 8443
 default["tomcat"]["ajp_port"] = 8009
