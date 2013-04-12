@@ -1,0 +1,10 @@
+{
+	"id": "johannes",
+	"groups": ["sysadmin"],
+	"comment": "Johannes Carlen",
+	"uid": 2004,
+	"home": "/home/johannes",
+	"shell": "/bin/bash",
+	"ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDFoggB5McUMx8ww6bPnNiKe8SWNZNr/BUW9DVR131x9G/B10eqNJVnq7oTVup93qqG5fdCHMejA2ONd5gaDMG83UOmrMgdmpHjN0zXhzVjObjbgNWFtj98DOMPXAj7rM21251dbSi+BISBJvFnEwka1LlDAAEHobc25hQ/AjV5booMh4nSQEPZ3R5QnQtBxyDbf5PXl07JILZjqjTeitwik63NFQTh2ICiR4OyAJJ7TYbs76GTd8OljQDQOBQbt9sk/G5rx1Hb83q0filRhepi1WqQfZM+WHGv7cO1Y+cXZCHKySGbmt1jJD58qxlakitabkGp1uaASm5hD367A6Qd johannescarlen@gmail.com"
+}
+
