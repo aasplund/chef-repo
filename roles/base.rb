@@ -3,7 +3,6 @@ description "Base Server Role"
 run_list(
 	"recipe[apt]",
 	"recipe[chef-client::delete_validation]",
-	"recipe[aliases]",
 	"recipe[chef-client]",
 	"recipe[ntp]",
 	"recipe[motd-tail]",
